@@ -1,0 +1,123 @@
+
+/**** index.html formating ***/
+
+
+header {
+  background-color: #FFDEAD;
+  font-family:'Roboto', sans-serif;
+  font-weight: 500;
+  font-size:30pt;
+  padding-top:50px;
+  padding-bottom: 50px;
+  text-align: center;
+  margin: 0;
+}
+
+html, body{
+  background-color: #DCDCDC;
+  font-family:'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+#aboutSection {
+  background-color: #68B58A;
+  color: black;
+  width: 20%;
+  height: 100vh;
+  margin-top: 20px;
+  text-align: left;
+  padding-top:30px;
+  padding-left: 10px;
+  padding-right:10px;
+  float: left;
+}
+
+.aboutL1 {
+  font-family:'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 10pt;
+  color: #FFDEAD;
+  text-align: left;
+}
+
+.aboutL2 {
+  font-family:'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 9pt;
+  color: white;
+  text-align: left;
+}
+
+#playSection {
+  float: right;
+  width: 80%;
+  height: 100vh;
+  margin-top:20px;
+  padding-top:30px;
+  padding-left:30px;
+}
+
+#printList {
+  height: 200px;
+  width: 500px;
+  
+}
+
+.sectionTitle {
+  font-family:'Roboto', sans-serif;
+  font-weight: 500;
+  color:black;
+  font-size:16pt;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+/**** test.html formating ***/
+
+
+#test {
+  text-align: center;
+  height: 100vh;
+  padding-top: 20px;
+  background-color: #DCDCDC;
+  font-family:'Roboto', sans-serif;
+  font-weight: 500;
+  font-size:12pt;
+  
+}
+
+#info1 {
+  height: 320px;
+  text-align: left;
+  padding-left: 45%;
+  padding-right: 45%;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+#info2 {
+  height: 200px;
+  padding-top: 50px;
+}
+
+#result1 {
+  margin-top: 30px;
+  font-size: 18pt;
+  color: green;
+  border-style: dashed;
+  border: 5px;
+  border-color: red;
+}
+
+#result2 {
+  font-size: 18pt;
+  color: red;
+  margin-bottom: 30px;
+}
+
+
