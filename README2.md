@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 Installed ping-pong by cloning this repository:
   
-  https://github.com/jenniferqian1988/pingPongGame.git
+     https://github.com/jenniferqian1988/pingPongGame.git
  
 
 
