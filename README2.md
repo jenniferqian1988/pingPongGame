@@ -17,5 +17,11 @@ Installation
 _____________________________________________________________________________________________________________________
 
 Installed ping-pong by cloning this repository:
-
+  
+  https://github.com/jenniferqian1988/pingPongGame.git
  
+
+License
+_____________________________________________________________________________________________________________________
+
+MIT License. Copywright 2015 Jennifer Qian
